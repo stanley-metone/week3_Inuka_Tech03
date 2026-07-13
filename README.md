@@ -13,13 +13,7 @@ Merge multiple data sources into a Master DataFrame.
 Handle missing values and data inconsistencies.
 Perform correlation analysis to uncover operational insights.
 Document every processing step for reproducibility.
-📂 Project Structure
-Week3-Multi-Source-Pipeline/
-│
-├── week3_multi_source_pipeline.ipynb      # Main Jupyter Notebook
-├── ops_sensor_log_cleaned.csv             # Cleaned operational dataset
-├── README.md                              # Project documentation
-└── images/                                # Optional screenshots/diagrams
+                              
 📊 Data Sources
 1. Internal Operational Dataset
 
@@ -119,6 +113,7 @@ Pearson Correlation
 Correlation Matrix
 Scatter plots
 Heatmaps (optional)
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -128,6 +123,7 @@ SQLAlchemy
 SQLite
 Matplotlib
 Jupyter Notebook
+
 📚 Key Python Concepts Demonstrated
 API Integration
 JSON Processing
